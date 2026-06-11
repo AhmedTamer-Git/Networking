@@ -15,6 +15,7 @@ Designed and implemented a large-scale enterprise infrastructure using Cisco Pac
 - VLANs
 - DHCP
 - WLC
+-OSPF
 - Access Points
 - IP Phones
 - EtherChannel
