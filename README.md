@@ -1,0 +1,32 @@
+# Enterprise Network Design & Implementation
+
+## Network Topology
+
+<p align="center">
+  <img src="network-topology.png" width="900">
+</p>
+
+## Project Description
+
+Designed and implemented a large-scale enterprise infrastructure using Cisco Packet Tracer.
+
+## Technologies
+
+- VLANs
+- OSPF
+- DHCP
+- ACLs
+- WLC
+- Access Points
+- IP Phones
+- EtherChannel
+- IoT
+
+## Key Achievements
+
+- Implemented network segmentation using VLANs.
+- Configured Inter-VLAN Routing.
+- Deployed OSPF dynamic routing.
+- Integrated wireless infrastructure using WLC.
+- Added VoIP communication using IP Phones.
+- Connected IoT devices in dedicated network segments.
