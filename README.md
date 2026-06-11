@@ -13,7 +13,6 @@ Designed and implemented a large-scale enterprise infrastructure using Cisco Pac
 ## Technologies
 
 - VLANs
-- OSPF
 - DHCP
 - WLC
 - Access Points
