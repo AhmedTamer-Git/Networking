@@ -15,7 +15,6 @@ Designed and implemented a large-scale enterprise infrastructure using Cisco Pac
 - VLANs
 - OSPF
 - DHCP
-- ACLs
 - WLC
 - Access Points
 - IP Phones
@@ -26,7 +25,6 @@ Designed and implemented a large-scale enterprise infrastructure using Cisco Pac
 
 - Implemented network segmentation using VLANs.
 - Configured Inter-VLAN Routing.
-- Deployed OSPF dynamic routing.
 - Integrated wireless infrastructure using WLC.
 - Added VoIP communication using IP Phones.
 - Connected IoT devices in dedicated network segments.
